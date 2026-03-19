@@ -4,9 +4,16 @@
 - **version** : 3.xx
 - **참여 인원** : 5명
 
+
+## Sample code
 ```bash
 git clone ....
 cd ....
 git remote ....
 git push
 git fetch
+```
+
+```python
+num: int = 10
+```
